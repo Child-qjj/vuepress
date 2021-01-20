@@ -2,6 +2,7 @@ module.exports = {
   "title": "Child的个人博客",
   "description": "记录了一些个人笔记",
   "dest": "public",
+  "base":'/',
   "head": [
     [
       "link",
